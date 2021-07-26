@@ -1,3 +1,3 @@
 <?php
-echo'pages';
-echo'pages1';
+echo'page';
+echo'aksgfla';
